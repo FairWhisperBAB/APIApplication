@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">APIApplication</string>
+    <string name="titleText">Get a stellar Dad Joke</string>
+    <string name="getDadJoke">Push</string>
+</resources>
